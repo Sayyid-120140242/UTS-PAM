@@ -111,7 +111,7 @@ export default function TaskScreen ( { navigation } ) {
           <Button title="Play Sound" onPress={playSound} />
         </View>
       <View style={styles.kotak}>
-        <Text style={{fontFamily:"Inter", fontSize:13}}>Copyright Emirssyah Putra - 120140169</Text>
+        <Text style={{fontFamily:"Inter", fontSize:13}}>Copyright Sayyid Chalil Azra - 120140242</Text>
       </View>
       
       <KeyboardAvoidingView 
